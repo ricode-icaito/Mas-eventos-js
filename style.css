@@ -1,0 +1,22 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+a, button {
+    display: block;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    background: red;
+}
+
+.red {
+    background: red;
+}
+
+.green{
+    background: green;
+}
